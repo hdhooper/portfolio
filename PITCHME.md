@@ -1,6 +1,6 @@
 ### Analytics Tools
-Extensive Experiance with toos such as Alteryx
-<img src="images/uber_pulse.jpg" alt="Drawing" style="width: 200px;"/>
+Extensive Experience with tools such as Alteryx
+<img src="images/uber_pulse.jpg" alt="Drawing" style="width: 600px;"/>
 
 
 ---
