@@ -1,5 +1,5 @@
 @title[Introduction]
-# Git<span style="color: #e49436">Pitch</span>
+# <span style="color: #8c2020">Velvet</span><span style="color: #423535">Brain</span>
 
 #### Markdown Presentations For Everyone on Git.*
 <br>
