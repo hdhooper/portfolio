@@ -1,6 +1,7 @@
 ### Analytics Tools
 Extensive Experiance with toos such as Alteryx
-![Logo](images/uber_pulse.jpg)
+<img src="images/uber_pulse.jpg" alt="Drawing" style="width: 200px;"/>
+
 
 ---
 @title[Cover]
