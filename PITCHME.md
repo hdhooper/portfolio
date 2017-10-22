@@ -5,8 +5,10 @@
 ### Hartwell Hooper
 <br>
 <span style="color: #bbb; font-size: 80%">[BI, Strategy, GIS, Management Reporting & Analysis ]</span>
-<span><span style="color: #8c2020">[Velvet</span><span style="color: #423535">Brain](http://velvetbrain.net)</span></span>
-<span style="font-size:0.6em; color:gray">See [GitPitch Wiki](https://github.com/gitpitch/gitpitch/wiki/Slide-Markdown) for details.</span>
+<br>
+<span><span style="color: #8c2020">Blog: [Velvet](http://velvetbrain.net)</span><span style="color: #423535">[Brain](http://velvetbrain.net)</span></span>
+<br>
+<span style="font-size:0.6em; color:gray">Blog: [VelvetBrain](http://velvetbrain.net) for more details.</span>
 ---
 @title[PITCHME.md]
 
