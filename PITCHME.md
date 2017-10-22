@@ -1,4 +1,9 @@
+
+![Logo](images/uber_pulse.jpg)
+
+---
 @title[Cover]
+
 
 ### Hartwell Hooper
 #### Professional Portfolio
