@@ -5,10 +5,14 @@
 
 <span style="color: #363b44; font-size: 80%">[BI, Strategy, GIS, Management Reporting & Analysis ]</span>
 <br><br>
+|**Social Media (profesional):**   	|   	|   	|
+|---	|---	|---	|
+|   	|Blog:  	|(http://velvetbrain.net)    	|
+
 <span style="font-size:0.8em; color:black; text-align:left">**Social Media (profesional):**
-_ <span style="font-size:0.6em; color:gray">Blog: [VelvetBrain](http://velvetbrain.net) for more details.</span>
-_ <span style="font-size:0.6em; color:gray">Twitter: [@GeoDemoGod](https://twitter.com/geodemogod)</span>
-_ <span style="font-size:0.6em; color:gray">LinkedIn: [Hartwell Hooper](https://www.linkedin.com/in/hartwell-hooper/) </span>
+* <span style="font-size:0.6em; color:gray">Blog: [VelvetBrain](http://velvetbrain.net) for more details.</span>
+* <span style="font-size:0.6em; color:gray">Twitter: [@GeoDemoGod](https://twitter.com/geodemogod)</span>
+* <span style="font-size:0.6em; color:gray">LinkedIn: [Hartwell Hooper](https://www.linkedin.com/in/hartwell-hooper/) </span>
 
 ###### Social Media (personal)
 <span style="font-size:0.6em; color:gray">Instagram: [@NotMyDogRI](https://www.instagram.com/notmydogri/?hl=en) </span>
