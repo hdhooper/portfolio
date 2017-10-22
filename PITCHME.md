@@ -4,11 +4,10 @@
 ### Hartwell Hooper
 
 <span style="color: #363b44; font-size: 80%">[BI, Strategy, GIS, Management Reporting & Analysis ]</span>
-<br><br>
-
+<br>
 **Social Media (profesional):**   	
-   	|Blog:  	|[VelvetBrain](http://velvetbrain.net)    	
-   	|Twitter:  	|[@GeoDemogod](https://twitter.com/geodemogod)   	
+<span style="font-size:0.6em; color:gray">Blog: [VelvetBrain](http://velvetbrain.net)</span>
+<span style="font-size:0.6em; color:gray">Twitter: [@GeoDemogod](https://twitter.com/geodemogod)</span>
 
 <span style="font-size:0.8em; color:black; text-align:left">**Social Media (profesional):**
 * <span style="font-size:0.6em; color:gray">Blog: [VelvetBrain](http://velvetbrain.net) for more details.</span>
