@@ -1,19 +1,16 @@
 @title[Introduction]
-# <span><span style="color: #8c2020">Velvet</span><span style="color: #423535">Brain</span></span>
 
 #### Professional Portfolio Site for 
 ### Hartwell Hooper
 <br>
 <span style="color: #bbb; font-size: 80%">[BI, Strategy, GIS, Management Reporting & Analysis ]</span>
 <br>
-<span><span style="color: #8c2020">Blog: [Velvet](http://velvetbrain.net)</span><span style="color: #423535">[Brain](http://velvetbrain.net)</span></span>
-<br>
-#### Social Media (profesional)
+##### Social Media (profesional)
 <span style="font-size:0.6em; color:gray">Blog: [VelvetBrain](http://velvetbrain.net) for more details.</span>
 <span style="font-size:0.6em; color:gray">Twitter: [@GeoDemoGod](https://twitter.com/geodemogod)</span>
 <span style="font-size:0.6em; color:gray">LinkedIn: [Hartwell Hooper](https://www.linkedin.com/in/hartwell-hooper/) </span>
 
-#### Social Media (personal)
+##### Social Media (personal)
 <span style="font-size:0.6em; color:gray">Instagram: [@NotMyDogRI](https://www.instagram.com/notmydogri/?hl=en) </span>
 <span style="font-size:0.6em; color:gray">Web Site: [NotMyDog.net](http://www.notmydog.net) </span>
 <span style="font-size:0.6em; color:gray">Facebook: [Hartwell Hooper](https://www.facebook.com/hartwell.hooper) </span>
