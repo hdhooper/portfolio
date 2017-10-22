@@ -1,3 +1,9 @@
+@title[Tableau]
+### Tableau
+<img src="images/tableau_dist_decay.jpg" alt="Drawing" style="width: 400px;"/>
+<img src="images/Tableau_Charlotte2.jpg" alt="Drawing" style="width: 400px;"/>
+---
+@title[Tools]
 ### Analytics Tools
 Extensive Experience with tools such as Alteryx
 <img src="images/uber_pulse.jpg" alt="Drawing" style="width: 600px;"/>
