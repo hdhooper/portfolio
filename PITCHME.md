@@ -1,8 +1,8 @@
 @title[Introduction]
 # <span style="color: #8c2020">Velvet</span><span style="color: #423535">Brain</span>
 
-#### Markdown Presentations For Everyone on Git.*
-<br>
+#### Professional Portfolio Site for 
+#### Hartwell Hooper
 <br>
 <span style="color: #bbb; font-size: 80%">[ GitHub, GitLab, Bitbucket, GitBucket, Gitea, Gogs ]</span>
 
