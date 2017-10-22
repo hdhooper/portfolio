@@ -6,25 +6,33 @@
 <span style="color: #363b44; font-size: 80%">[BI, Strategy, GIS, Management Reporting & Analysis ]</span>
 <br>
 **Social Media (profesional):**   	
-<span style="font-size:0.6em; color:gray">Blog: [VelvetBrain](http://velvetbrain.net)</span><br>
+<span style="font-size:0.6em; color:gray">Blog/Sand Box Web Site: [VelvetBrain](http://velvetbrain.net)</span><br>
 <span style="font-size:0.6em; color:gray">Twitter: [@GeoDemogod](https://twitter.com/geodemogod)</span><br>
-<span style="font-size:0.6em; color:gray">LinkedIn: [Hartwell Hooper](https://www.linkedin.com/in/hartwell-hooper/) </span>
+<span style="font-size:0.6em; color:gray">LinkedIn: [Hartwell Hooper](https://www.linkedin.com/in/hartwell-hooper/) </span><br>
 **Social Media (personal):**   	
 <span style="font-size:0.6em; color:gray">Instagram: [@NotMyDogRI](https://www.instagram.com/notmydogri/?hl=en) </span><br>
 <span style="font-size:0.6em; color:gray">Web Site: [NotMyDog.net](http://www.notmydog.net) </span><br>
 <span style="font-size:0.6em; color:gray">Facebook: [Hartwell Hooper](https://www.facebook.com/hartwell.hooper) </span>
 
 
-
-<span style="font-size:0.8em; color:black; text-align:left">**Social Media (profesional):**
-* <span style="font-size:0.6em; color:gray">Blog: [VelvetBrain](http://velvetbrain.net) for more details.</span>
-* <span style="font-size:0.6em; color:gray">Twitter: [@GeoDemoGod](https://twitter.com/geodemogod)</span>
-* <span style="font-size:0.6em; color:gray">LinkedIn: [Hartwell Hooper](https://www.linkedin.com/in/hartwell-hooper/) </span>
-
-###### Social Media (personal)
-<span style="font-size:0.6em; color:gray">Instagram: [@NotMyDogRI](https://www.instagram.com/notmydogri/?hl=en) </span>
-<span style="font-size:0.6em; color:gray">Web Site: [NotMyDog.net](http://www.notmydog.net) </span>
-<span style="font-size:0.6em; color:gray">Facebook: [Hartwell Hooper](https://www.facebook.com/hartwell.hooper) </span>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg .tg-yw4l{vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l"></th>
+    <th class="tg-yw4l"></th>
+    <th class="tg-yw4l"></th>
+  </tr>
+  <tr>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+  </tr>
+</table>
 
 
 ---
