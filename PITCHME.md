@@ -5,9 +5,16 @@
 
 <span style="color: #363b44; font-size: 80%">[BI, Strategy, GIS, Management Reporting & Analysis ]</span>
 <br>
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
 **Social Media (profesional):**   	
-|<span style="font-size:0.6em; color:gray">Blog: [VelvetBrain](http://velvetbrain.net)</span>
-|<span style="font-size:0.6em; color:gray">Twitter: [@GeoDemogod](https://twitter.com/geodemogod)</span>
+|<span style="font-size:0.6em; color:gray">Blog: [VelvetBrain](http://velvetbrain.net)</span>|
+|<span style="font-size:0.6em; color:gray">Twitter: [@GeoDemogod](https://twitter.com/geodemogod)</span>|
 
 <span style="font-size:0.8em; color:black; text-align:left">**Social Media (profesional):**
 * <span style="font-size:0.6em; color:gray">Blog: [VelvetBrain](http://velvetbrain.net) for more details.</span>
