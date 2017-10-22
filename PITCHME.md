@@ -1,10 +1,10 @@
 @title[Introduction]
 # <span style="color: #8c2020">Velvet</span><span style="color: #423535">Brain</span>
 
-### Professional Portfolio Site for 
-#### Hartwell Hooper
+#### Professional Portfolio Site for 
+### Hartwell Hooper
 <br>
-<span style="color: #bbb; font-size: 80%">[ GitHub, GitLab, Bitbucket, GitBucket, Gitea, Gogs ]</span>
+<span style="color: #bbb; font-size: 80%">[BI, Strategy, GIS, Management Reporting & Analysis ]</span>
 
 ---
 @title[PITCHME.md]
