@@ -5,10 +5,11 @@
 <br>
 <span style="color: #bbb; font-size: 80%">[BI, Strategy, GIS, Management Reporting & Analysis ]</span>
 <br>
-####### Social Media (profesional)
-<span style="font-size:0.3em; color:gray">Blog: [VelvetBrain](http://velvetbrain.net) for more details.</span>
+<span style="font-size:0.6em; color:black"> Social Media (profesional)
 <br>
-<span style="font-size:0.3em; color:gray">Twitter: [@GeoDemoGod](https://twitter.com/geodemogod)</span>
+<span style="font-size:0.4em; color:gray">Blog: [VelvetBrain](http://velvetbrain.net) for more details.</span>
+<br>
+<span style="font-size:0.5em; color:gray">Twitter: [@GeoDemoGod](https://twitter.com/geodemogod)</span>
 <br>
 <span style="font-size:0.3em; color:gray">LinkedIn: [Hartwell Hooper](https://www.linkedin.com/in/hartwell-hooper/) </span>
 <br>
