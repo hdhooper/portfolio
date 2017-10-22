@@ -8,7 +8,8 @@
 
 **Social Media (profesional):**   	|   	|
 ---	|---	|---	
-   	|Blog:  	|(http://velvetbrain.net)    	
+   	|Blog:  	|[VelveBrain](http://velvetbrain.net)    	
+   	|Twitter:  	|[@GeoDemogod](https://twitter.com/geodemogod)   	
 
 <span style="font-size:0.8em; color:black; text-align:left">**Social Media (profesional):**
 * <span style="font-size:0.6em; color:gray">Blog: [VelvetBrain](http://velvetbrain.net) for more details.</span>
