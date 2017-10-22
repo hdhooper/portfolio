@@ -5,6 +5,10 @@
 
 <span style="color: #363b44; font-size: 80%">[BI, Strategy, GIS, Management Reporting & Analysis ]</span>
 <br><br>
+hellow | good bye | adsfsf
+--- | --- | ---
+abc | xyz| wera
+
 |**Social Media (profesional):**   	|   	|   	|
 |---	|---	|---	|
 |   	|Blog:  	|(http://velvetbrain.net)    	|
