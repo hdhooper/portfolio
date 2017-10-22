@@ -1,4 +1,4 @@
-@title[Introduction]
+@title[Cover]
 
 ### Hartwell Hooper
 #### Professional Portfolio
@@ -51,13 +51,20 @@
 <span style="color: #669; font-size: 50%">use the arrow keys to advance</span>
 
 ---
+@title[Social Media Links]
 
-| Social Media |  |
-| -------------| ------------- |
-| Profesional | Blog  | [VelvetBrain.net](http://velvetbrain.net)  |
-| Profesional | Twitter  | [@GeoDemogod](https://twitter.com/geodemogod)  |
-| Profesional | LinkedIn  | [@GeoDemogod](https://twitter.com/geodemogod)  |
+| Social Media |  | |
+| -------------| ------------- |------------- |
+| BI / Analytics | Blog  | [VelvetBrain.net](http://velvetbrain.net)  |
+| BI / Analytics | Twitter  | [@GeoDemogod](https://twitter.com/geodemogod)  |
+| Profesional | LinkedIn  | [Hartwell Hooper](https://www.linkedin.com/in/hartwell-hooper/) |
+| Personal | Instagram  | [@NotMyDogRI](https://www.instagram.com/notmydogri/?hl=en) |
+| Personal | Facebook  | [Hartwell Hooper](https://www.facebook.com/hartwell.hooper)  |
 
+
+---
+@title[Social Media Links]
+Thanks your for visiting my personal portfolio site.  I want to say something more like a cover letter here, with perhaps a personal statement about why I chose this form.
 ---
 
 @title[PITCHME.md]
