@@ -6,7 +6,8 @@
 <span style="color: #363b44; font-size: 80%">[BI, Strategy, GIS, Management Reporting & Analysis ]</span>
 <br>
 **Social Media (profesional):**   	
-<span style="font-size:0.6em; color:gray">Blog/Sand Box Web Site: [VelvetBrain](http://velvetbrain.net)</span><br>
+<span style="font-size:0.6em; color:gray">Blog/Sand Box Web Site: [VelvetBrain.net](http://velvetbrain.net)</span>
+<span style="font-size:0.1em"></span><br>
 <span style="font-size:0.6em; color:gray">Twitter: [@GeoDemogod](https://twitter.com/geodemogod)</span><br>
 <span style="font-size:0.6em; color:gray">LinkedIn: [Hartwell Hooper](https://www.linkedin.com/in/hartwell-hooper/) </span><br>
 **Social Media (personal):**   	
