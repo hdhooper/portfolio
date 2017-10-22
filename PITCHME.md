@@ -1,42 +1,65 @@
 @title[Introduction]
 
-#### Professional Portfolio Site for 
 ### Hartwell Hooper
+#### Professional Portfolio
+
 
 <span style="color: #363b44; font-size: 80%">[BI, Strategy, GIS, Management Reporting & Analysis ]</span>
 <br>
-**Social Media (profesional):**   	
-<span style="font-size:0.6em; color:gray">Blog/Sand Box Web Site: [VelvetBrain.net](http://velvetbrain.net)</span>
-<span style="font-size:0.1em">...</span><br>
-<span style="font-size:0.6em; color:gray">Twitter: [@GeoDemogod](https://twitter.com/geodemogod)</span><br>
-<span style="font-size:0.6em; color:gray">LinkedIn: [Hartwell Hooper](https://www.linkedin.com/in/hartwell-hooper/) </span><br>
-**Social Media (personal):**   	
-<span style="font-size:0.6em; color:gray">Instagram: [@NotMyDogRI](https://www.instagram.com/notmydogri/?hl=en) </span><br>
-<span style="font-size:0.6em; color:gray">Web Site: [NotMyDog.net](http://www.notmydog.net) </span><br>
-<span style="font-size:0.6em; color:gray">Facebook: [Hartwell Hooper](https://www.facebook.com/hartwell.hooper) </span>
 
-
+<span>
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg  {border-collapse:collapse;border-spacing:0;border-color:#aabcfe;}
+.tg td{font-family:Arial, sans-serif;font-size:16px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#aabcfe;color:#669;background-color:#e8edff;}
+.tg th{font-family:Arial, sans-serif;font-size:16px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#aabcfe;color:#039;background-color:#b9c9fe;}
 .tg .tg-yw4l{vertical-align:top}
 </style>
 <table class="tg">
   <tr>
+    <th class="tg-yw4l">Social Media:</th>
     <th class="tg-yw4l"></th>
-    <th class="tg-yw4l"></th>
-    <th class="tg-yw4l"></th>
+  </tr>
+
+
+  <tr>
+    <td class="tg-yw4l">Blog</th>
+    <td class="tg-yw4l">[VelvetBrain.net](http://velvetbrain.net)</th>
   </tr>
   <tr>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Twitter</th>
+    <td class="tg-yw4l">[@GeoDemogod](https://twitter.com/geodemogod)</th>
   </tr>
-</table>
+  <tr>
+    <td class="tg-yw4l">LinkedIn</th>
+    <td class="tg-yw4l">[Hartwell Hooper](https://www.linkedin.com/in/hartwell-hooper/)</th>
+  </tr>
 
+  <tr>
+    <td class="tg-yw4l">Instagram</th>
+    <td class="tg-yw4l">[@NotMyDogRI](https://www.instagram.com/notmydogri/?hl=en)</th>
+  </tr>
+
+  <tr>
+    <td class="tg-yw4l">Facebook</th>
+    <td class="tg-yw4l"> [Hartwell Hooper](https://www.facebook.com/hartwell.hooper)</th>
+  </tr>
+
+
+</table>
+</span>
+
+<span style="color: #669; font-size: 50%">use the arrow keys to advance</span>
 
 ---
+
+| Social Media |  |
+| -------------| ------------- |
+| Profesional | Blog  | [VelvetBrain.net](http://velvetbrain.net)  |
+| Profesional | Twitter  | [@GeoDemogod](https://twitter.com/geodemogod)  |
+| Profesional | LinkedIn  | [@GeoDemogod](https://twitter.com/geodemogod)  |
+
+---
+
 @title[PITCHME.md]
 
 #### GitPitch turns <span style="color: #e49436; text-transform: none">PITCHME.md</span> into
