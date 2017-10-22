@@ -1,5 +1,5 @@
 @title[Introduction]
-#<span><span style="color: #8c2020">Velvet</span><span style="color: #423535">Brain</span></span>
+#<span style="color: #8c2020">Velvet</span><span style="color: #423535">Brain</span>
 
 #### Professional Portfolio Site for 
 ### Hartwell Hooper
