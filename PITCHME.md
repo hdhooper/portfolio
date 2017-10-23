@@ -2,7 +2,9 @@
 #### Tableau & Mobile Data
 <span style="color: #242526; font-size: 80%">Using mobile device data to measure distance decay for a variety of shopping centers.</span>
 
-[//]: #  <img src="images/tableau_dist_decay.jpg" alt="Drawing" style="width: 600px;"/>  
+[//]:#  <img src="images/tableau_dist_decay.jpg" alt="Drawing" style="width: 600px;"/>  
+
+<!--  <img src="images/tableau_dist_decay.jpg" alt="Drawing" style="width: 600px;"/>  
 
 ![Alt text](images/tableau_dist_decay.jpg "Optional title")
 
