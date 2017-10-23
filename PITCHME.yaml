@@ -2,3 +2,4 @@
 background : images/wallpaper.jpg
 logo : images/logo.png
 theme-override : assets/css/PITCHME.css
+vertical-center : false
