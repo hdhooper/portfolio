@@ -1,4 +1,11 @@
-@title[Tableau]
+@title[Tableau - Tableau & Credit Card Data]
+#### Tableau & Credit Card Data
+<span style="color: #242526; line-height: 80%; font-size: 60%">Credit card transactions by time-of-week, four grocery chains.</span>
+<img src="images/tableau_transaction_times.jpg" alt="Drawing" style="width: 800px;"/>  
+---
+
+
+@title[Tableau - Tableau & Mobile Data]
 #### Tableau & Mobile Data
 <span style="color: #242526; line-height: 80%; font-size: 60%">Using mobile device data to measure distance decay for a various shopping centers.</span>
 
