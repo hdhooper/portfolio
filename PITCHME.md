@@ -1,7 +1,6 @@
 @title[Tableau]
+#### Tableau & Mobile Data
 ### Tableau & Mobile Data
-## Tableau & Mobile Data
-# Tableau & Mobile Data
 Using mobile device data to measure distance decay for a variety of shopping centers.
 
 <span style="color: #363b44; font-size: 80%">Using mobile device data to measure distance decay for a variety of shopping centers.</span>
