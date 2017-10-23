@@ -1,6 +1,6 @@
 @title[Tableau]
 #### Tableau & Mobile Data
-<span style="color: #242526; line-height: 80%; font-size: 60%">An example of using mobile device data to measure distance decay for a variety of shopping centers.</span>
+<span style="color: #242526; line-height: 80%; font-size: 60%">Using mobile device data to measure distance decay for a various shopping centers.</span>
 
 <img src="images/tableau_dist_decay.jpg" alt="Drawing" style="width: 800px;"/>  
 ---
