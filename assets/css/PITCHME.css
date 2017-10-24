@@ -8,6 +8,7 @@
 .reveal section img {
   border: 0;
   box-shadow: none;
+  align: "middle";
 }
 .reveal .slides {
     text-align: left;
