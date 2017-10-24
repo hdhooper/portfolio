@@ -2,7 +2,7 @@
 #### Tableau: Annual summary of Movies 
 <p id="harttext">The year's top movies, a quantative approach.</p>
 
- <img src="images/tableau_2015_movies.jpg" alt="Drawing"  style="width: 600px;" >  
+<img src="images/tableau_2015_movies.jpg" alt="Drawing"  style="width: 600px;" />  
 
 ---
 
