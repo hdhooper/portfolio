@@ -19,6 +19,7 @@
 }
 
 #harttext {
-    text-align: center;
     line-height: 80%;
+    text-align: center;
+    color: red;
 }
