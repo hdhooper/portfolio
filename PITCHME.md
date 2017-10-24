@@ -1,6 +1,9 @@
+
+---?image=images/tableau_2015_movies.jpg
+
 @title[Tableau - Tableau & Credit Card Data]
 #### Tableau & Credit Card Data
-<span style="color: #242526; line-height: 80%; font-size: 60%">Credit card transactions by time-of-week: four grocery chains.</span>
+
 <p id="harttext">Credit card transactions by time-of-week: four grocery chains.</p>
 
 <img src="images/tableau_transaction_times2.jpg" alt="Drawing" style="width: 900px;"/>  
