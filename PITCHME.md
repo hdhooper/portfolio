@@ -1,11 +1,13 @@
-### Hartwell Hooper
-#### Professional Portfolio
----?image=images/tableau_2015_movies.jpg&size=auto 90%
+@title[Tableau - Tableau & Credit Card Data]
+#### Tableau: Annual summary of Movies 
+<p id="harttext">The year's top movies, a quantative approach.</p>
+
+<img src="images/tableau_2015_movies.jpg" alt="Drawing" style="width: 800px;"/>  
 
 ---
 
 @title[Tableau - Tableau & Credit Card Data]
-#### Tableau & Credit Card Data
+#### Tableau: Credit Card Data
 
 <p id="harttext">Credit card transactions by time-of-week: four grocery chains.</p>
 
@@ -14,7 +16,7 @@
 
 
 @title[Tableau - Tableau & Mobile Data]
-#### Tableau & Mobile Data
+#### Tableau: Mobile Phone Data
 <span style="color: #242526; line-height: 80%; font-size: 60%">Using mobile device data to measure distance decay for a various shopping centers.</span>
 
 <img src="images/tableau_dist_decay.jpg" alt="Drawing" style="width: 800px;"/>  
