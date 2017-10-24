@@ -1,7 +1,7 @@
 #harttext {
     line-height: 80%;
     text-align: left;
-    color: red ;
+    color: blue ;
     font-size:60% ;
 }
 
@@ -11,5 +11,5 @@
 }
 .reveal .slides {
     text-align: left;
-    line-height: 80%;
+    line-height: 50%;
 }
