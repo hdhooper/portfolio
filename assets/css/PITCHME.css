@@ -17,3 +17,8 @@
   border: 0;
   box-shadow: none;
 }
+
+#harttext {
+    text-align: center;
+    line-height: 80%;
+}
