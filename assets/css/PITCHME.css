@@ -5,6 +5,10 @@
     font-size:60% ;
 }
 
+H4 {
+ color: green;
+}
+
 .reveal section img {
   border: 0;
   box-shadow: none;
