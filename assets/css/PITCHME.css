@@ -21,5 +21,6 @@
 #harttext {
     line-height: 80%;
     text-align: center;
-    color: red;
+    color: #242526;
+   font-size:80%;
 }
