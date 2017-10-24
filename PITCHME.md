@@ -1,6 +1,6 @@
 ### Hartwell Hooper
 #### Professional Portfolio
----?image=images/tableau_2015_movies.jpg
+---?image=images/tableau_2015_movies.jpg&size=auto 90%
 
 ---
 
