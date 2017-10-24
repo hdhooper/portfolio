@@ -1,5 +1,5 @@
 
----?image=images/tableau_2015_movies.jpg
+---?image=images/tableau_2015_movies.jpgmm
 
 @title[Tableau - Tableau & Credit Card Data]
 #### Tableau & Credit Card Data
