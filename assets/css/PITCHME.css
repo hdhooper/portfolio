@@ -1,18 +1,26 @@
+.reveal section img {
+  border: 0;
+  box-shadow: none;
+}
+
+.reveal .slides {
+    text-align: left;
+    line-height: 80%;
+}
+.reveal .slides section>* {
+    margin-left: 0;
+    margin-right: 0;
+    line-height: 80%;
+}
+
 #harttext {
     line-height: 80%;
-    text-align: center;
+    text-align: left;
     color: blue ;
     font-size:60% ;
 }
 
-.reveal section img {
-  border: 0;
-  box-shadow: none;
-  align: "middle";
+img {
+    display: block;
+    margin: 0 auto;
 }
-
-.reveal .slides {
-
-    line-height: 80%;
-}
-
